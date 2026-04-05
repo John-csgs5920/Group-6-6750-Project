@@ -1,0 +1,49 @@
+Parameters used for each scenario(s). 
+Hys(Hysteresis)
+TTT(time-to-trigger)
+S1:
+TTT:0.067 S
+Hys:13
+Offset: 11
+
+S2:
+TTT:(0.424 s)
+Hys:13
+Offset: 11
+
+S3:
+TTT:4.2s
+Hys:13
+Offset: 11
+
+S4:
+TTT:(0.05 s)
+Hys:8
+Offset: 10
+
+S5:
+TTT:(0.5 s)
+Hys:8
+Offset: 10
+
+S6:
+TTT:(3.217 s)
+Hys:8
+Offset: 10
+
+S7:
+TTT:(0.053 s)
+Hys:1
+Offset: 2
+
+S8:
+TTT:(0.37 s)
+Hys:1
+Offset: 2
+
+S9:
+TTT:4.183s
+Hys:1
+Offset: 2
+
+
